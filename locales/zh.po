@@ -4109,7 +4109,7 @@ msgstr "建立于"
 
 #: frontend/src/metabase/nav/components/ProfileLink.jsx:128
 msgid "is a Trademark of"
-msgstr "是一个……的商标"
+msgstr "是一个商标，归属于"
 
 #: frontend/src/metabase/nav/components/ProfileLink.jsx:130
 msgid "and is built with care in San Francisco, CA"
@@ -4482,7 +4482,7 @@ msgstr "得到结果了！"
 
 #: frontend/src/metabase/pulse/components/PulseEdit.jsx:159
 msgid "Where should this data go?"
-msgstr "这个数据应该去哪？"
+msgstr "这个数据打算发送到哪？"
 
 #: frontend/src/metabase/pulse/components/PulseEdit.jsx:175
 msgid "Unarchiving…"
@@ -4533,7 +4533,7 @@ msgstr "选择你的数据"
 
 #: frontend/src/metabase/pulse/components/PulseEditCards.jsx:162
 msgid "Choose questions you'd like to send in this pulse"
-msgstr "挑选你想在这个定时任务里发送的图表。"
+msgstr "挑选你想在这个定时任务里发送的图表"
 
 #: frontend/src/metabase/pulse/components/PulseEditChannels.jsx:27
 msgid "Emails"
@@ -9348,7 +9348,7 @@ msgstr "我们建议你让它关闭，除非你用这些数据在大部分查询
 
 #: frontend/src/metabase/containers/Overworld.jsx:312
 msgid "Your team's most important dashboards go here"
-msgstr "你的团队的最重要的仪表盘在这里"
+msgstr "你的团队最重要的仪表盘在这里"
 
 #: frontend/src/metabase/containers/Overworld.jsx:313
 msgid "Pin dashboards in {0} to have them appear in this space for everyone"
@@ -12606,7 +12606,7 @@ msgstr[0] "记录"
 
 #: frontend/src/metabase/nav/containers/Navbar.jsx:346
 msgid "Browse Data"
-msgstr "流量数据"
+msgstr "浏览数据"
 
 #: frontend/src/metabase/nav/containers/Navbar.jsx:376
 msgid "Write SQL"
@@ -12618,7 +12618,7 @@ msgstr "简单查询"
 
 #: frontend/src/metabase/new_query/containers/NewQueryOptions.jsx:148
 msgid "Pick some data, view it, and easily filter, summarize, and visualize it."
-msgstr "挑选并浏览数据, 添加简单的过滤或聚合, 然后将数据可视化."
+msgstr "挑选并浏览数据, 添加简单的过滤或聚合, 然后将数据可视化。"
 
 #: frontend/src/metabase/new_query/containers/NewQueryOptions.jsx:156
 msgid "Custom question"
@@ -12626,7 +12626,7 @@ msgstr "自定义查询"
 
 #: frontend/src/metabase/new_query/containers/NewQueryOptions.jsx:157
 msgid "Use the advanced notebook editor to join data, create custom columns, do math, and more."
-msgstr "使用高级查询编辑器完成关联, 创建自定义列, 实现数学计算等更多高级功能."
+msgstr "使用高级查询编辑器完成关联, 创建自定义列, 实现数学计算等更多高级功能。"
 
 #: frontend/src/metabase/query_builder/components/AggregationPopover.jsx:23
 msgid "Basic Metrics"
@@ -13323,5 +13323,5 @@ msgstr "确定查询的预期列时出错"
 
 #: src/metabase/query_processor/middleware/async.clj
 msgid "Unhandled exception, expected `catch-exceptions` middleware to handle it."
-msgstr "无法处理的异常,  希望`catch-exceptions`能够处理它."
+msgstr "无法处理的异常,  希望`catch-exceptions`能够处理它。"
 
